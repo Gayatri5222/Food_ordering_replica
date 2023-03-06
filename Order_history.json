@@ -1,0 +1,69 @@
+{
+    "922": [
+        {
+            "68": {
+                "Food name": "Burger",
+                "Food quantity": "3",
+                "Food price": 70,
+                "Food discount": 2,
+                "Food stock": 20
+            }
+        },
+        {
+            "11": {
+                "Food name": "Cake",
+                "Food quantity": "500gm",
+                "Food price": 200,
+                "Food discount": 10,
+                "Food stock": 5
+            }
+        }
+    ],
+    "53": [
+        {
+            "68": {
+                "Food name": "Burger",
+                "Food quantity": "3",
+                "Food price": 70,
+                "Food discount": 2,
+                "Food stock": 20
+            }
+        },
+        {
+            "11": {
+                "Food name": "Cake",
+                "Food quantity": "500gm",
+                "Food price": 200,
+                "Food discount": 10,
+                "Food stock": 5
+            }
+        },
+        {
+            "48": {
+                "Food name": "Pizza",
+                "Food quantity": "2",
+                "Food price": 100,
+                "Food discount": 5,
+                "Food stock": "15"
+            }
+        },
+        {
+            "68": {
+                "Food name": "Burger",
+                "Food quantity": "3",
+                "Food price": 70,
+                "Food discount": 2,
+                "Food stock": 20
+            }
+        },
+        {
+            "11": {
+                "Food name": "Cake",
+                "Food quantity": "500gm",
+                "Food price": 200,
+                "Food discount": 10,
+                "Food stock": 5
+            }
+        }
+    ]
+}
